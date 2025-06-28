@@ -47,6 +47,7 @@ A sleek, responsive, and fully client-side web app to manage your DSA (Data Stru
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet for layout and design
 └── app.js              # All the JavaScript logic
+```
 
 ## 👨‍💻 Developed By
 
